@@ -1,11 +1,11 @@
 cmake_minimum_required(VERSION 3.5)
 
-project(punto2 LANGUAGES CXX)
+project(punto10 LANGUAGES CXX)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
-add_executable(punto2 main.cpp)
+add_executable(punto10 main.cpp)
 
-install(TARGETS punto2
+install(TARGETS punto10
     LIBRARY DESTINATION ${CMAKE_INSTALL_LIBDIR})
