@@ -15,7 +15,7 @@ int main()
     Eigen::MatrixXf mA(4,4);
     Eigen::MatrixXf mB(4,4);
     Eigen::MatrixXf mX(4,4);
-    std::cout << "\n------------PUNTO CATORCE-------------------" << std::endl;
+    std::cout << "\n------------PUNTO QUINCE-------------------" << std::endl;
     //Se requiere llenar la matriz con los numeros que se indican que valen a la
     // matriz A y a la matriz B
     std::cout << "\n Matriz A"<< std::endl;
